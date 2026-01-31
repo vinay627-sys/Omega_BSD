@@ -65,6 +65,12 @@ Outcome:
 -> System always recoverable via loader prompt (`boot`)
 -> No kernel panic encountered
 
+Important notes:
+	•	❌ .4th files are legacy
+	•	✅ Lua (/boot/lua/*.lua) is authoritative
+	•	menu.lua controls menu structure
+	•	drawer.lua controls rendering
+	•	loader.conf only toggles flags, not logic
 
 
 ## Portability Notes
