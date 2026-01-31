@@ -25,7 +25,6 @@ Relevant directories:
 - `/boot/logo-*.4th` (legacy)
 
 
-
 ## Implemented Changes
 
 ### Disable Default Logo
@@ -96,7 +95,7 @@ cat /etc/motd.template
 sleep 1
 clear
 
-##important while doing these changes 
+## important while doing these changes 
 Please enable SSH right from the start if there are any weird rendering issues or terminal problems you can just use ssh to rectify those mistakes easily and always keep a stock back up file if things go wrong (which it will).
 ## Findings
 
