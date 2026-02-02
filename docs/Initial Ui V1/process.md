@@ -35,16 +35,16 @@ connect from host: localhost:5901
 (Start the process of VNC after the below commands)
 
 
-Go to file directory ("~/.config/i3/config)
+## Go to file directory ("~/.config/i3/config)
 
 Paste the following code
-File called config code
+File called "config code" in the repository 
 
 
-Go to file directory (/root/dashboard.py)
+## Go to file directory (/root/dashboard.py)
 
 Paste the following code
-File called dashboard.py in the repository. 
+File called "dashboard.py" in the repository. 
 
 ## Permissions(important)
 
@@ -52,7 +52,7 @@ Make the dashboard executable
 
 -> chmod +x dashboard.py
 
-##i/scripts/home.sh
+## i/scripts/home.sh
 
 Optional “Home” helper (if you prefer script-based control).
 
