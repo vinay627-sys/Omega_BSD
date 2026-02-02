@@ -123,6 +123,8 @@ if __name__ == "__main__":
     Dashboard()
     Gtk.main()
 
+
+
 ##Permissions(important)
 
 Make the dashboard executable
